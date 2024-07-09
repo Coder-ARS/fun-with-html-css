@@ -1,0 +1,909 @@
+.box0{
+    height :100vh ;
+    width :100vh ;
+    background-color: rgb(0,0,0); 
+    position: fixed;
+    border-radius: 0% ; 
+    left: 0px ;
+    top: 0px ;
+}
+.box1{
+    height :99vh ;
+    width :99vh ;
+    background-color: rgb(87,64,25); 
+    position: fixed;
+    border-radius: 7% ; 
+    left: 1px ;
+    top: 1px ;
+}
+.box2{
+    height :98vh ;
+    width :98vh ;
+    background-color: rgb(174,128,50); 
+    position: fixed;
+    border-radius: 14% ; 
+    left: 2px ;
+    top: 2px ;
+}
+.box3{
+    height :97vh ;
+    width :97vh ;
+    background-color: rgb(6,192,75); 
+    position: fixed;
+    border-radius: 21% ; 
+    left: 3px ;
+    top: 3px ;
+}
+.box4{
+    height :96vh ;
+    width :96vh ;
+    background-color: rgb(93,1,100); 
+    position: fixed;
+    border-radius: 28% ; 
+    left: 4px ;
+    top: 4px ;
+}
+.box5{
+    height :95vh ;
+    width :95vh ;
+    background-color: rgb(180,65,125); 
+    position: fixed;
+    border-radius: 35% ; 
+    left: 5px ;
+    top: 5px ;
+}
+.box6{
+    height :94vh ;
+    width :94vh ;
+    background-color: rgb(12,129,150); 
+    position: fixed;
+    border-radius: 42% ; 
+    left: 6px ;
+    top: 6px ;
+}
+.box7{
+    height :93vh ;
+    width :93vh ;
+    background-color: rgb(99,193,175); 
+    position: fixed;
+    border-radius: 49% ; 
+    left: 7px ;
+    top: 7px ;
+}
+.box8{
+    height :92vh ;
+    width :92vh ;
+    background-color: rgb(186,2,200); 
+    position: fixed;
+    border-radius: 56% ; 
+    left: 8px ;
+    top: 8px ;
+}
+.box9{
+    height :91vh ;
+    width :91vh ;
+    background-color: rgb(18,66,225); 
+    position: fixed;
+    border-radius: 63% ; 
+    left: 9px ;
+    top: 9px ;
+}
+.box10{
+    height :90vh ;
+    width :90vh ;
+    background-color: rgb(105,130,250); 
+    position: fixed;
+    border-radius: 70% ; 
+    left: 10px ;
+    top: 10px ;
+}
+.box11{
+    height :89vh ;
+    width :89vh ;
+    background-color: rgb(192,194,20); 
+    position: fixed;
+    border-radius: 77% ; 
+    left: 11px ;
+    top: 11px ;
+}
+.box12{
+    height :88vh ;
+    width :88vh ;
+    background-color: rgb(24,3,45); 
+    position: fixed;
+    border-radius: 84% ; 
+    left: 12px ;
+    top: 12px ;
+}
+.box13{
+    height :87vh ;
+    width :87vh ;
+    background-color: rgb(111,67,70); 
+    position: fixed;
+    border-radius: 91% ; 
+    left: 13px ;
+    top: 13px ;
+}
+.box14{
+    height :86vh ;
+    width :86vh ;
+    background-color: rgb(198,131,95); 
+    position: fixed;
+    border-radius: 98% ; 
+    left: 14px ;
+    top: 14px ;
+}
+.box15{
+    height :85vh ;
+    width :85vh ;
+    background-color: rgb(30,195,120); 
+    position: fixed;
+    border-radius: 5% ; 
+    left: 15px ;
+    top: 15px ;
+}
+.box16{
+    height :84vh ;
+    width :84vh ;
+    background-color: rgb(117,4,145); 
+    position: fixed;
+    border-radius: 12% ; 
+    left: 16px ;
+    top: 16px ;
+}
+.box17{
+    height :83vh ;
+    width :83vh ;
+    background-color: rgb(204,68,170); 
+    position: fixed;
+    border-radius: 19% ; 
+    left: 17px ;
+    top: 17px ;
+}
+.box18{
+    height :82vh ;
+    width :82vh ;
+    background-color: rgb(36,132,195); 
+    position: fixed;
+    border-radius: 26% ; 
+    left: 18px ;
+    top: 18px ;
+}
+.box19{
+    height :81vh ;
+    width :81vh ;
+    background-color: rgb(123,196,220); 
+    position: fixed;
+    border-radius: 33% ; 
+    left: 19px ;
+    top: 19px ;
+}
+.box20{
+    height :80vh ;
+    width :80vh ;
+    background-color: rgb(210,5,245); 
+    position: fixed;
+    border-radius: 40% ; 
+    left: 20px ;
+    top: 20px ;
+}
+.box21{
+    height :79vh ;
+    width :79vh ;
+    background-color: rgb(42,69,15); 
+    position: fixed;
+    border-radius: 47% ; 
+    left: 21px ;
+    top: 21px ;
+}
+.box22{
+    height :78vh ;
+    width :78vh ;
+    background-color: rgb(129,133,40); 
+    position: fixed;
+    border-radius: 54% ; 
+    left: 22px ;
+    top: 22px ;
+}
+.box23{
+    height :77vh ;
+    width :77vh ;
+    background-color: rgb(216,197,65); 
+    position: fixed;
+    border-radius: 61% ; 
+    left: 23px ;
+    top: 23px ;
+}
+.box24{
+    height :76vh ;
+    width :76vh ;
+    background-color: rgb(48,6,90); 
+    position: fixed;
+    border-radius: 68% ; 
+    left: 24px ;
+    top: 24px ;
+}
+.box25{
+    height :75vh ;
+    width :75vh ;
+    background-color: rgb(135,70,115); 
+    position: fixed;
+    border-radius: 75% ; 
+    left: 25px ;
+    top: 25px ;
+}
+.box26{
+    height :74vh ;
+    width :74vh ;
+    background-color: rgb(222,134,140); 
+    position: fixed;
+    border-radius: 82% ; 
+    left: 26px ;
+    top: 26px ;
+}
+.box27{
+    height :73vh ;
+    width :73vh ;
+    background-color: rgb(54,198,165); 
+    position: fixed;
+    border-radius: 89% ; 
+    left: 27px ;
+    top: 27px ;
+}
+.box28{
+    height :72vh ;
+    width :72vh ;
+    background-color: rgb(141,7,190); 
+    position: fixed;
+    border-radius: 96% ; 
+    left: 28px ;
+    top: 28px ;
+}
+.box29{
+    height :71vh ;
+    width :71vh ;
+    background-color: rgb(228,71,215); 
+    position: fixed;
+    border-radius: 3% ; 
+    left: 29px ;
+    top: 29px ;
+}
+.box30{
+    height :70vh ;
+    width :70vh ;
+    background-color: rgb(60,135,240); 
+    position: fixed;
+    border-radius: 10% ; 
+    left: 30px ;
+    top: 30px ;
+}
+.box31{
+    height :69vh ;
+    width :69vh ;
+    background-color: rgb(147,199,10); 
+    position: fixed;
+    border-radius: 17% ; 
+    left: 31px ;
+    top: 31px ;
+}
+.box32{
+    height :68vh ;
+    width :68vh ;
+    background-color: rgb(234,8,35); 
+    position: fixed;
+    border-radius: 24% ; 
+    left: 32px ;
+    top: 32px ;
+}
+.box33{
+    height :67vh ;
+    width :67vh ;
+    background-color: rgb(66,72,60); 
+    position: fixed;
+    border-radius: 31% ; 
+    left: 33px ;
+    top: 33px ;
+}
+.box34{
+    height :66vh ;
+    width :66vh ;
+    background-color: rgb(153,136,85); 
+    position: fixed;
+    border-radius: 38% ; 
+    left: 34px ;
+    top: 34px ;
+}
+.box35{
+    height :65vh ;
+    width :65vh ;
+    background-color: rgb(240,200,110); 
+    position: fixed;
+    border-radius: 45% ; 
+    left: 35px ;
+    top: 35px ;
+}
+.box36{
+    height :64vh ;
+    width :64vh ;
+    background-color: rgb(72,9,135); 
+    position: fixed;
+    border-radius: 52% ; 
+    left: 36px ;
+    top: 36px ;
+}
+.box37{
+    height :63vh ;
+    width :63vh ;
+    background-color: rgb(159,73,160); 
+    position: fixed;
+    border-radius: 59% ; 
+    left: 37px ;
+    top: 37px ;
+}
+.box38{
+    height :62vh ;
+    width :62vh ;
+    background-color: rgb(246,137,185); 
+    position: fixed;
+    border-radius: 66% ; 
+    left: 38px ;
+    top: 38px ;
+}
+.box39{
+    height :61vh ;
+    width :61vh ;
+    background-color: rgb(78,201,210); 
+    position: fixed;
+    border-radius: 73% ; 
+    left: 39px ;
+    top: 39px ;
+}
+.box40{
+    height :60vh ;
+    width :60vh ;
+    background-color: rgb(165,10,235); 
+    position: fixed;
+    border-radius: 80% ; 
+    left: 40px ;
+    top: 40px ;
+}
+.box41{
+    height :59vh ;
+    width :59vh ;
+    background-color: rgb(252,74,5); 
+    position: fixed;
+    border-radius: 87% ; 
+    left: 41px ;
+    top: 41px ;
+}
+.box42{
+    height :58vh ;
+    width :58vh ;
+    background-color: rgb(84,138,30); 
+    position: fixed;
+    border-radius: 94% ; 
+    left: 42px ;
+    top: 42px ;
+}
+.box43{
+    height :57vh ;
+    width :57vh ;
+    background-color: rgb(171,202,55); 
+    position: fixed;
+    border-radius: 1% ; 
+    left: 43px ;
+    top: 43px ;
+}
+.box44{
+    height :56vh ;
+    width :56vh ;
+    background-color: rgb(3,11,80); 
+    position: fixed;
+    border-radius: 8% ; 
+    left: 44px ;
+    top: 44px ;
+}
+.box45{
+    height :55vh ;
+    width :55vh ;
+    background-color: rgb(90,75,105); 
+    position: fixed;
+    border-radius: 15% ; 
+    left: 45px ;
+    top: 45px ;
+}
+.box46{
+    height :54vh ;
+    width :54vh ;
+    background-color: rgb(177,139,130); 
+    position: fixed;
+    border-radius: 22% ; 
+    left: 46px ;
+    top: 46px ;
+}
+.box47{
+    height :53vh ;
+    width :53vh ;
+    background-color: rgb(9,203,155); 
+    position: fixed;
+    border-radius: 29% ; 
+    left: 47px ;
+    top: 47px ;
+}
+.box48{
+    height :52vh ;
+    width :52vh ;
+    background-color: rgb(96,12,180); 
+    position: fixed;
+    border-radius: 36% ; 
+    left: 48px ;
+    top: 48px ;
+}
+.box49{
+    height :51vh ;
+    width :51vh ;
+    background-color: rgb(183,76,205); 
+    position: fixed;
+    border-radius: 43% ; 
+    left: 49px ;
+    top: 49px ;
+}
+.box50{
+    height :50vh ;
+    width :50vh ;
+    background-color: rgb(15,140,230); 
+    position: fixed;
+    border-radius: 50% ; 
+    left: 50px ;
+    top: 50px ;
+}
+.box51{
+    height :49vh ;
+    width :49vh ;
+    background-color: rgb(102,204,0); 
+    position: fixed;
+    border-radius: 57% ; 
+    left: 51px ;
+    top: 51px ;
+}
+.box52{
+    height :48vh ;
+    width :48vh ;
+    background-color: rgb(189,13,25); 
+    position: fixed;
+    border-radius: 64% ; 
+    left: 52px ;
+    top: 52px ;
+}
+.box53{
+    height :47vh ;
+    width :47vh ;
+    background-color: rgb(21,77,50); 
+    position: fixed;
+    border-radius: 71% ; 
+    left: 53px ;
+    top: 53px ;
+}
+.box54{
+    height :46vh ;
+    width :46vh ;
+    background-color: rgb(108,141,75); 
+    position: fixed;
+    border-radius: 78% ; 
+    left: 54px ;
+    top: 54px ;
+}
+.box55{
+    height :45vh ;
+    width :45vh ;
+    background-color: rgb(195,205,100); 
+    position: fixed;
+    border-radius: 85% ; 
+    left: 55px ;
+    top: 55px ;
+}
+.box56{
+    height :44vh ;
+    width :44vh ;
+    background-color: rgb(27,14,125); 
+    position: fixed;
+    border-radius: 92% ; 
+    left: 56px ;
+    top: 56px ;
+}
+.box57{
+    height :43vh ;
+    width :43vh ;
+    background-color: rgb(114,78,150); 
+    position: fixed;
+    border-radius: 99% ; 
+    left: 57px ;
+    top: 57px ;
+}
+.box58{
+    height :42vh ;
+    width :42vh ;
+    background-color: rgb(201,142,175); 
+    position: fixed;
+    border-radius: 6% ; 
+    left: 58px ;
+    top: 58px ;
+}
+.box59{
+    height :41vh ;
+    width :41vh ;
+    background-color: rgb(33,206,200); 
+    position: fixed;
+    border-radius: 13% ; 
+    left: 59px ;
+    top: 59px ;
+}
+.box60{
+    height :40vh ;
+    width :40vh ;
+    background-color: rgb(120,15,225); 
+    position: fixed;
+    border-radius: 20% ; 
+    left: 60px ;
+    top: 60px ;
+}
+.box61{
+    height :39vh ;
+    width :39vh ;
+    background-color: rgb(207,79,250); 
+    position: fixed;
+    border-radius: 27% ; 
+    left: 61px ;
+    top: 61px ;
+}
+.box62{
+    height :38vh ;
+    width :38vh ;
+    background-color: rgb(39,143,20); 
+    position: fixed;
+    border-radius: 34% ; 
+    left: 62px ;
+    top: 62px ;
+}
+.box63{
+    height :37vh ;
+    width :37vh ;
+    background-color: rgb(126,207,45); 
+    position: fixed;
+    border-radius: 41% ; 
+    left: 63px ;
+    top: 63px ;
+}
+.box64{
+    height :36vh ;
+    width :36vh ;
+    background-color: rgb(213,16,70); 
+    position: fixed;
+    border-radius: 48% ; 
+    left: 64px ;
+    top: 64px ;
+}
+.box65{
+    height :35vh ;
+    width :35vh ;
+    background-color: rgb(45,80,95); 
+    position: fixed;
+    border-radius: 55% ; 
+    left: 65px ;
+    top: 65px ;
+}
+.box66{
+    height :34vh ;
+    width :34vh ;
+    background-color: rgb(132,144,120); 
+    position: fixed;
+    border-radius: 62% ; 
+    left: 66px ;
+    top: 66px ;
+}
+.box67{
+    height :33vh ;
+    width :33vh ;
+    background-color: rgb(219,208,145); 
+    position: fixed;
+    border-radius: 69% ; 
+    left: 67px ;
+    top: 67px ;
+}
+.box68{
+    height :32vh ;
+    width :32vh ;
+    background-color: rgb(51,17,170); 
+    position: fixed;
+    border-radius: 76% ; 
+    left: 68px ;
+    top: 68px ;
+}
+.box69{
+    height :31vh ;
+    width :31vh ;
+    background-color: rgb(138,81,195); 
+    position: fixed;
+    border-radius: 83% ; 
+    left: 69px ;
+    top: 69px ;
+}
+.box70{
+    height :30vh ;
+    width :30vh ;
+    background-color: rgb(225,145,220); 
+    position: fixed;
+    border-radius: 90% ; 
+    left: 70px ;
+    top: 70px ;
+}
+.box71{
+    height :29vh ;
+    width :29vh ;
+    background-color: rgb(57,209,245); 
+    position: fixed;
+    border-radius: 97% ; 
+    left: 71px ;
+    top: 71px ;
+}
+.box72{
+    height :28vh ;
+    width :28vh ;
+    background-color: rgb(144,18,15); 
+    position: fixed;
+    border-radius: 4% ; 
+    left: 72px ;
+    top: 72px ;
+}
+.box73{
+    height :27vh ;
+    width :27vh ;
+    background-color: rgb(231,82,40); 
+    position: fixed;
+    border-radius: 11% ; 
+    left: 73px ;
+    top: 73px ;
+}
+.box74{
+    height :26vh ;
+    width :26vh ;
+    background-color: rgb(63,146,65); 
+    position: fixed;
+    border-radius: 18% ; 
+    left: 74px ;
+    top: 74px ;
+}
+.box75{
+    height :25vh ;
+    width :25vh ;
+    background-color: rgb(150,210,90); 
+    position: fixed;
+    border-radius: 25% ; 
+    left: 75px ;
+    top: 75px ;
+}
+.box76{
+    height :24vh ;
+    width :24vh ;
+    background-color: rgb(237,19,115); 
+    position: fixed;
+    border-radius: 32% ; 
+    left: 76px ;
+    top: 76px ;
+}
+.box77{
+    height :23vh ;
+    width :23vh ;
+    background-color: rgb(69,83,140); 
+    position: fixed;
+    border-radius: 39% ; 
+    left: 77px ;
+    top: 77px ;
+}
+.box78{
+    height :22vh ;
+    width :22vh ;
+    background-color: rgb(156,147,165); 
+    position: fixed;
+    border-radius: 46% ; 
+    left: 78px ;
+    top: 78px ;
+}
+.box79{
+    height :21vh ;
+    width :21vh ;
+    background-color: rgb(243,211,190); 
+    position: fixed;
+    border-radius: 53% ; 
+    left: 79px ;
+    top: 79px ;
+}
+.box80{
+    height :20vh ;
+    width :20vh ;
+    background-color: rgb(75,20,215); 
+    position: fixed;
+    border-radius: 60% ; 
+    left: 80px ;
+    top: 80px ;
+}
+.box81{
+    height :19vh ;
+    width :19vh ;
+    background-color: rgb(162,84,240); 
+    position: fixed;
+    border-radius: 67% ; 
+    left: 81px ;
+    top: 81px ;
+}
+.box82{
+    height :18vh ;
+    width :18vh ;
+    background-color: rgb(249,148,10); 
+    position: fixed;
+    border-radius: 74% ; 
+    left: 82px ;
+    top: 82px ;
+}
+.box83{
+    height :17vh ;
+    width :17vh ;
+    background-color: rgb(81,212,35); 
+    position: fixed;
+    border-radius: 81% ; 
+    left: 83px ;
+    top: 83px ;
+}
+.box84{
+    height :16vh ;
+    width :16vh ;
+    background-color: rgb(168,21,60); 
+    position: fixed;
+    border-radius: 88% ; 
+    left: 84px ;
+    top: 84px ;
+}
+.box85{
+    height :15vh ;
+    width :15vh ;
+    background-color: rgb(0,85,85); 
+    position: fixed;
+    border-radius: 95% ; 
+    left: 85px ;
+    top: 85px ;
+}
+.box86{
+    height :14vh ;
+    width :14vh ;
+    background-color: rgb(87,149,110); 
+    position: fixed;
+    border-radius: 2% ; 
+    left: 86px ;
+    top: 86px ;
+}
+.box87{
+    height :13vh ;
+    width :13vh ;
+    background-color: rgb(174,213,135); 
+    position: fixed;
+    border-radius: 9% ; 
+    left: 87px ;
+    top: 87px ;
+}
+.box88{
+    height :12vh ;
+    width :12vh ;
+    background-color: rgb(6,22,160); 
+    position: fixed;
+    border-radius: 16% ; 
+    left: 88px ;
+    top: 88px ;
+}
+.box89{
+    height :11vh ;
+    width :11vh ;
+    background-color: rgb(93,86,185); 
+    position: fixed;
+    border-radius: 23% ; 
+    left: 89px ;
+    top: 89px ;
+}
+.box90{
+    height :10vh ;
+    width :10vh ;
+    background-color: rgb(180,150,210); 
+    position: fixed;
+    border-radius: 30% ; 
+    left: 90px ;
+    top: 90px ;
+}
+.box91{
+    height :9vh ;
+    width :9vh ;
+    background-color: rgb(12,214,235); 
+    position: fixed;
+    border-radius: 37% ; 
+    left: 91px ;
+    top: 91px ;
+}
+.box92{
+    height :8vh ;
+    width :8vh ;
+    background-color: rgb(99,23,5); 
+    position: fixed;
+    border-radius: 44% ; 
+    left: 92px ;
+    top: 92px ;
+}
+.box93{
+    height :7vh ;
+    width :7vh ;
+    background-color: rgb(186,87,30); 
+    position: fixed;
+    border-radius: 51% ; 
+    left: 93px ;
+    top: 93px ;
+}
+.box94{
+    height :6vh ;
+    width :6vh ;
+    background-color: rgb(18,151,55); 
+    position: fixed;
+    border-radius: 58% ; 
+    left: 94px ;
+    top: 94px ;
+}
+.box95{
+    height :5vh ;
+    width :5vh ;
+    background-color: rgb(105,215,80); 
+    position: fixed;
+    border-radius: 65% ; 
+    left: 95px ;
+    top: 95px ;
+}
+.box96{
+    height :4vh ;
+    width :4vh ;
+    background-color: rgb(192,24,105); 
+    position: fixed;
+    border-radius: 72% ; 
+    left: 96px ;
+    top: 96px ;
+}
+.box97{
+    height :3vh ;
+    width :3vh ;
+    background-color: rgb(24,88,130); 
+    position: fixed;
+    border-radius: 79% ; 
+    left: 97px ;
+    top: 97px ;
+}
+.box98{
+    height :2vh ;
+    width :2vh ;
+    background-color: rgb(111,152,155); 
+    position: fixed;
+    border-radius: 86% ; 
+    left: 98px ;
+    top: 98px ;
+}
+.box99{
+    height :1vh ;
+    width :1vh ;
+    background-color: rgb(198,216,180); 
+    position: fixed;
+    border-radius: 93% ; 
+    left: 99px ;
+    top: 99px ;
+}
+.box100{
+    height :0vh ;
+    width :0vh ;
+    background-color: rgb(30,25,205); 
+    position: fixed;
+    border-radius: 0% ; 
+    left: 100px ;
+    top: 100px ;
+}
