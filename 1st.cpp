@@ -3,6 +3,7 @@ using namespace std;
 
 int main() 
 {
+    /* CSS Down */
     int x=0;
     int y =0;
     int z= 0;
@@ -33,7 +34,7 @@ int main()
       z+=25;
       rad+=7;
     }
-    
+    /* HTML Down */
     for (int i = 0 ; i<=100;i++){
       cout<<"<div "<<"class= "<<"\"box"<<i<<"\""<<" >"<<"</div>"<<"\n";
     }
